@@ -2007,7 +2007,7 @@ input:focus {
     flex-direction: column;
     position: absolute;
     top: 6rem;
-    right: 0.5rem;
+    left: 0.5rem;
     background: var(--background_color);
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
     border-radius: 2rem;
