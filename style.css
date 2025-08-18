@@ -642,7 +642,7 @@ input:focus {
             position: relative;
             top: 1rem;
             margin: 0 auto;
-            background-image: url('../project2/images/customer1.png');
+            background-image: url('/images/customer1.png');
             background-size: cover;
         }
 
@@ -998,7 +998,7 @@ input:focus {
         .logo-icon {
             width: 4rem;
             height: 4rem;
-            background-image: url("../project2/images/logo.png");
+            background-image: url("/images/logo.png");
             background-position: center;
             background-size: cover;
             border-radius: 50%;

@@ -54,11 +54,11 @@ project2/
 
 ## Design 
 - **laptop screen:**
-![alt text](127.0.0.1_5500_project2_index.html.png)
+![alt text](images/127.0.0.1_5500_project2_index.html.png)
 - **Tablets Screen:**
-![alt text](<127.0.0.1_5500_project2_index.html (1).png>)
+![alt text](<images/127.0.0.1_5500_project2_index.html (1).png>)
 - **Mobile Screen:**
-![alt text](<127.0.0.1_5500_project2_index.html (2)-1.png>)
+![alt text](<images/127.0.0.1_5500_project2_index.html (2)-1.png>)
 ## Responsive Design
 
 The site is fully responsive and adapts to desktops, tablets, and mobile devices using media queries. No original dimensions are changed; only layout and font sizes are adjusted for smaller screens.
