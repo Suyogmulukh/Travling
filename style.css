@@ -1000,7 +1000,7 @@ input:focus {
         .logo-icon {
             width: 4rem;
             height: 4rem;
-            background-image: url("/images/logo.png");
+            background-image: url("images/logo.png");
             background-position: center;
             background-size: cover;
             border-radius: 50%;
