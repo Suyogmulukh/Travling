@@ -642,16 +642,18 @@ input:focus {
             position: relative;
             top: 1rem;
             margin: 0 auto;
-            background-image: url('/images/customer1.png');
+            background-image: url('https://www.imageshine.in/uploads/sub_category/airplane-travel-png.png');
             background-size: cover;
+            background-position: center;
+            
         }
 
         .luggage {
             position: absolute;
             bottom: 3rem;
-            left: -4rem;
-            width: 5rem;
-            height: 7rem;
+            left: -1rem;
+            width: 6rem;
+            height: 8rem;
             background: linear-gradient(45deg, #ff6b35, #ff8c42);
             border-radius: 1rem;
             box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -672,7 +674,7 @@ input:focus {
         .luggage-wheels {
             position: absolute;
             bottom: -0.8rem;
-            left: 0.8rem;
+            left: 1.4rem;
             width: 0.8rem;
             height: 0.8rem;
             background: #333;
@@ -682,8 +684,8 @@ input:focus {
 
         .agency-badge {
             position: absolute;
-            bottom: -5rem;
-            left: 30rem;
+            bottom: 0rem;
+            left: 26rem;
             background: white;
             padding: 2rem 2.5rem;
             border-radius: 2rem;
